@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 My name is João Gabriel and I'm a Software Engineer working in Machine Learning.
 
-Currently, I work at [Tinyclues](https://www.tinyclues.com/) helping scale up our predictive services (data infra + Deep Learning models) to score marketing campaigns for our B2B clients, affecting hundreds of millions of end-users.
+Currently, I work at [Tinyclues](https://www.tinyclues.com/) helping scale up our backend to score marketing campaigns for our B2B clients, affecting hundreds of millions of end-users.
 
-In my previous life I was a journeyman in all things Data + Computer Science + Engineering:
+In my previous life:
 * **BEng Computer Engineering** @ UFRJ
 * **MEng Engineering (Mathematics & Data Science track)** @ CentraleSupélec (Université Paris-Saclay)
 * **MSc Data Sciences and Business Analytics** @ ESSEC Business School + CentraleSupélec
